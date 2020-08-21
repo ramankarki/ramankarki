@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on front-end development.
 - 🌱 I’m currently learning full-stack development
 - 👯 I’m looking to collaborate on and🤔 I’m looking for help with web developer and UI/UX community.
