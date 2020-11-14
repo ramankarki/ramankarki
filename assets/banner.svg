@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1280"
-   height="720"
-   viewBox="0 0 338.66667 190.50001"
+   width="1366"
+   height="500"
+   viewBox="0 0 361.42084 132.29167"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -54,15 +54,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.55;fill:#ffffff;fill-opacity:1;stroke-width:1.04032;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:0.55;fill:#ffffff;fill-opacity:1;stroke-width:0.895583;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect1470"
-       width="338.66669"
-       height="190.5"
-       x="-4.8947481e-06"
-       y="2.9687499e-06" />
+       width="361.42084"
+       height="132.29167"
+       x="1.9088282e-06"
+       y="-1.0997445e-06" />
     <g
        id="g1460"
-       transform="matrix(0.12636982,0,0,0.12636982,163.86033,87.727757)">
+       transform="matrix(0.12636982,0,0,0.12636982,196.00814,35.657364)">
       <path
          d="m 1172,537.57 a 181.92,181.92 0 0 1 -6.85,49.6 180.06,180.06 0 0 1 -19.27,44.28 c 0,50.1 -33.82,93.4 -82.91,114 a 167.3,167.3 0 0 1 -64.73,12.8 H 245.17 c -40.25,0 -77.55,-10.86 -108.14,-29.36 A 185.76,185.76 0 0 1 112.2,711 C 78.2,681.78 57.12,641.4 57.12,596.8 A 180.5,180.5 0 0 1 28,498.08 C 28,424.72 71.39,361.64 133.55,333.79 a 174.52,174.52 0 0 1 25.51,-9.12 q 4.63,-1.26 9.36,-2.26 a 175.39,175.39 0 0 1 25.51,-3.5 q 4.65,-0.29 9.35,-0.33 H 205 c 3.46,0 6.89,0.12 10.3,0.32 l 1.12,-1.9 q 2.06,-3.44 4.22,-6.81 3.9,-6.14 8.18,-12.1 4.48,-6.29 9.35,-12.38 l 0.83,-1 q 2.76,-3.44 5.64,-6.8 9,-10.49 19,-20.35 c 72.11,-70.68 185.08,-116.18 312.08,-116.18 98.82,0 189.15,27.55 258.34,73.07 A 174.18,174.18 0 0 1 920,191.86 c 97.74,0 177,80.37 177,179.51 a 184.9,184.9 0 0 1 -1,18.78 180,180 0 0 1 76,147.42 z"
          transform="translate(-28,-141.34)"
@@ -1481,7 +1481,7 @@
          fill="#504f60"
          id="path1205" />
       <polygon
-         points="463.65,580.46 596.19,596.33 637,601.44 749.26,579.33 764,573.12 474.86,523.77 "
+         points="764,573.12 474.86,523.77 463.65,580.46 596.19,596.33 637,601.44 749.26,579.33 "
          fill="#9c9ca1"
          id="polygon1207" />
       <path
@@ -1593,25 +1593,25 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:28.4286px;line-height:40.6663px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';stroke-width:1.62677;stroke-miterlimit:4;stroke-dasharray:none"
-       x="27.407703"
-       y="51.146492"
+       style="font-size:19.8491px;line-height:28.3936px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';stroke-width:1.13583;stroke-miterlimit:4;stroke-dasharray:none"
+       x="22.703524"
+       y="37.827663"
        id="text1464"><tspan
          sodipodi:role="line"
          id="tspan1462"
-         x="27.407703"
-         y="51.146492"
-         style="fill:#150485;fill-opacity:1;stroke-width:1.62677;stroke-miterlimit:4;stroke-dasharray:none">Front-end Developer</tspan></text>
+         x="22.703524"
+         y="37.827663"
+         style="fill:#150485;fill-opacity:1;stroke-width:1.13583;stroke-miterlimit:4;stroke-dasharray:none">Front-end Developer</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.03813px;line-height:11.4982px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';opacity:0.55;stroke-width:0.45993"
-       x="28.170458"
-       y="72.14621"
+       style="font-size:7.05381px;line-height:10.0902px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';opacity:0.55;stroke-width:0.403609"
+       x="24.650541"
+       y="57.412945"
        id="text1468"><tspan
          sodipodi:role="line"
          id="tspan1466"
-         x="28.170458"
-         y="72.14621"
-         style="fill:#150485;fill-opacity:1;stroke-width:0.45993">Interested in learning new things continuously</tspan></text>
+         x="24.650541"
+         y="57.412945"
+         style="fill:#150485;fill-opacity:1;stroke-width:0.403609">Interested in learning new things continuously</tspan></text>
   </g>
 </svg>
