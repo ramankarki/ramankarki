@@ -49,7 +49,7 @@ I'm Raman Karki. I'm a 11th grade student pursuing Technical Education 🎓 from
 </p>
 
 <!-- GitHub stats -->
-<b>⚡ My Dev Statistics</b>
+<h3>⚡ My Dev Statistics</h3>
 
 <p>
 <!-- GitHub Stats -->
