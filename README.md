@@ -16,7 +16,7 @@ I'm Raman Karki. I'm a 11th grade student pursuing Technical Education 🎓 from
 <!-- created from https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="blank">
+    <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
