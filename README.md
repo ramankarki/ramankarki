@@ -41,7 +41,7 @@ I'm Raman Karki. I'm a 11th grade student pursuing Technical Education 🎓 from
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
     </a>
     <a href="https://inkscape.org/release/inkscape-1.0.1/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/inkscape-logo.svg" alt="inkscape" width="40" height="40"/>
+        <img src="https://github.com/ramankarki/ramankarki/blob/master/assets/inkscape-logo.svg" alt="inkscape" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
