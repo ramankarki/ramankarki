@@ -2,7 +2,9 @@
 
 <!-- retro visitor counter -->
 <p align="center">
-    <img src="https://github.com/ramankarki/ramankarki/blob/master/assets/eye-icon.svg">
+    <img src="https://github.com/ramankarki/ramankarki/blob/master/assets/eye-icon.svg"> <b>views</b>
+</p>
+<p align="center">
     <img src="https://profile-counter.glitch.me/ramankarki/count.svg" />
 </p>
 
