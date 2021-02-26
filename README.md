@@ -35,7 +35,7 @@ I'm Raman Karki. I'm a 11th grade student pursuing Technical Education 🎓 from
     <img src="/assets/express.svg" alt="express" width="70" height="70"/>
     <img src="/assets/mongodb.svg" alt="mongodb" width="70" height="70"/>
     <img src="/assets/mongoose.svg" alt="mongoose" width="70" height="70"/>
-    <img src="/assets/postman.svg" alt="postman" width="60" height="90"/>
+    <img src="/assets/postman.svg" alt="postman" width="100" height="50"/>
     <img src="/assets/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
     <img src="/assets/git.svg" alt="git" width="50" height="50"/>
     <img src="/assets/figma.svg" alt="figma" width="40" height="40"/>
