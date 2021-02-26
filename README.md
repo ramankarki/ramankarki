@@ -23,16 +23,24 @@ I'm Raman Karki. I'm a 11th grade student pursuing Technical Education 🎓 from
 <!-- created from https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <img src="/assets/vscode.svg" alt="vscode" width="40" height="40"/>
     <img src="/assets/html5.svg" alt="html5" width="40" height="40"/>
     <img src="/assets/css3.svg" alt="css3" width="40" height="40"/>
     <img src="/assets/bootstrap-5.svg" alt="bootstrap" width="40" height="40"/>
     <img src="/assets/sass.svg" alt="sass" width="40" height="40"/>
     <img src="/assets/javascript.svg" alt="javascript" width="40" height="40"/>
-    <img src="/assets/python.svg" alt="python" width="40" height="40"/>
+    <img src="/assets/react.svg" alt="react" width="40" height="40"/>
+    <img src="/assets/redux.svg" alt="redux" width="40" height="40"/>
+    <img src="/assets/node.svg" alt="node" width="40" height="40"/>
+    <img src="/assets/express.svg" alt="express" width="40" height="40"/>
+    <img src="/assets/mongodb.svg" alt="mongodb" width="40" height="40"/>
+    <img src="/assets/mongoose.svg" alt="mongoose" width="40" height="40"/>
+    <img src="/assets/postman.svg" alt="postman" width="40" height="40"/>
+    <img src="/assets/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
+    <img src="/assets/git.svg" alt="git" width="40" height="40"/>
     <img src="/assets/figma.svg" alt="figma" width="40" height="40"/>
     <img src="/assets/inkscape-logo.svg" alt="inkscape" width="40" height="40"/>
-    <img src="/assets/git.svg" alt="git" width="40" height="40"/>
-    <img src="/assets/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
+    <img src="/assets/python.svg" alt="python" width="40" height="40"/>
 </p>
 
 <br/>
