@@ -1,4 +1,6 @@
-![Banner](https://github.com/ramankarki/ramankarki/blob/master/assets/banner.png)
+<div align="center">
+    <img src="/assets/banner.png">
+</div>
 
 <!-- retro visitor counter -->
 <p align="center">
