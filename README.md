@@ -14,4 +14,4 @@
 <br>
 
 <!-- Most Used Languages -->
-<img width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramankarki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+<img width="999999" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramankarki&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight"/>
