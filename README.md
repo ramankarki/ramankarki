@@ -1,7 +1,5 @@
 <img src="./assets/hand.png" width="120">
 
-<br>
-
 # Hey there!
 
 <br>
